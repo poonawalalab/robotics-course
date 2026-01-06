@@ -4,7 +4,22 @@
     "href": "schedule.html",
     "title": "Topics",
     "section": "",
-    "text": "Date\nTopic\nSlides\nNotes\nModern Robotics Chapter\nRMC Book\n\n\n\n\nJan 10\nCourse Overview; Motion Tasks\nIntroduction\n\n1\n1\n\n\nJan 12\nSimulation using Julia; Alternatives\n\n\n\n\n\n\nJan 17\nRobots as powered mechanisms\n\n\n2.1-2.3\n1\n\n\n(self)\nAffine Spaces\n\n\n\n\n\n\nJan 19\nReference Frames & Coordinates; Coordinate/Rigid Body Transformations\n\n\n3.1\n2.1\n\n\nJan 24\nCoordinate/Frame Transformation; Homogenous Transformations\n\n\n3.3.1\n2.2-2.6\n\n\n(self)\nForward Kinematics\n\n\n4\n3.1\n\n\nJan 26\nRotations\n\n\n3.3.1\n2.2-2.6\n\n\nJan 26\nJacobians\n\n\n5.1\n4.6\n\n\nJan 26\nTwists, Wrenches\n\n\n3.3\n-\n\n\n(self)\nInverse Kinematics\n\n\n6\n3.2\n\n\n(self)\nVelocity Kinematics\n\n\n3.3\n4.1-4.5\n\n\n\n2D Newton-Euler Dynamics\n\n\n3.1\n7.6\n\n\n\n3D Newton-Euler Dynamics\n\n\n8.2\n7.6\n\n\n\nEuler-Lagrangian Dynamics\n\n\n8.1, 8.4-8.5\n7.1-7.4\n\n\n\nNewton-Euler Inverse Dynamics\n\n\n8.3\n7.6\n\n\n\nActuator Models\n\n\n8.9\n6.5\n\n\n\nFeedforward and Feedback Control\nFF and FB\n\n\n\n\n\n\nIndependent Joint Control\nIJC\n\n11.4.2.1\n6\n\n\n\nGravity Compensation\n\n\n\n8.1\n\n\n\nInverse Dynamics Control\nInvDyn\n\n11.4.2.2\n8.2\n\n\n(self)\nProperties of EL Dynamics\n\n\n8.1\n7.5\n\n\n\nRobust and Adaptive Control\n\n\n\n8.3\n\n\n\nPassivity-Based Control\n\n\n\n8.4\n\n\n\nForce Control\n\n\n11.5\n9\n\n\n\nContacts\n\n\n11.6\n9.1\n\n\n\nHybrid Force-Position Control\n\n\n11.6\n9.3.3\n\n\n\nImpedance\n\n\n11.7\n9.2\n\n\n\nHybrid Impedance Control\n\n\n11.7\n9.3.2\n\n\n\nImpedance Control\n\n\n11.7\n9.3.2\n\n\n\nMotion Planning\nMP0, Search, MP1\n\n10.3\n5.2, 5.3\n\n\n\nPotential-based Methods\nMP2\n\n10.5\n5.4\n\n\n\nKalman Filtering\nProbability, KF\n\n\n\n\n\n\nKF, SLAM\nSLAM\n\n\n\n\n\n\nSLAM, Review\nSLAM\n\n\n\n\n\n\nBrief: Optimal Control, RL\nLQR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeedback Linearization\n\n\n\n10.2\n\n\n\nGrasping and Manipulation\n\n\n-\n\n\n\n\nWheeled Mobile Robots\n\n\n13\n10.5"
+    "text": "Date\nTopic\nSlides\nNotes\nModern Robotics Chapter\nRMC Book1\n\n\n\n\nJan 13\nCourse Overview; Motion Tasks\nOverview\n\n1\n1\n\n\nJan 15\nMuJoCo Setup",
+    "crumbs": [
+      "Home",
+      "Topics"
+    ]
+  },
+  {
+    "objectID": "schedule.html#footnotes",
+    "href": "schedule.html#footnotes",
+    "title": "Topics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n, M. W. Spong, S. Hutchinson, and M. Vidyasagar, John Wiley & Sons, 2006. ↩︎",
+    "crumbs": [
+      "Home",
+      "Topics"
+    ]
   },
   {
     "objectID": "about.html",
@@ -40,7 +55,29 @@
     "href": "overview.html#about-me",
     "title": "Overview",
     "section": "About me",
-    "text": "About me\n\nGrew up in UK and India\nUndergraduate degree in Mech. Engg. in India\nMasters in Mech. Engg from U. Michigan\nPh.D in Electrical Engg. from UT Dallas\nPostDoc at UT Austin in Computational Control\n\n\n\n\n\nResearch\n\n\nGoal: Get mechanical robots to control themselves.\nDay-to-day: Theory from dynamics and control systems, simulations/experiments involving machine learning and robots.",
+    "text": "About me\n\nGrew up in England and India\nUndergraduate degree in Mech. Engg. in India\nMasters in Mech. Engg from U. Michigan\nPh.D in Electrical Engg. from UT Dallas\nPostDoc at UT Austin in Computational Control\n\n\n\n\n\nResearch\n\n\nGoal: Get mechanical robots to control themselves.\nDay-to-day: Theory from dynamics and control systems, simulations/experiments involving machine learning and robots.",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#navigation",
+    "href": "overview.html#navigation",
+    "title": "Overview",
+    "section": "Navigation",
+    "text": "Navigation\n\n\n\n\nSimple linear controller &lt;1&lt; 1 MB size\n\nBased on the Support Vector Machine\n\nGuaranteed to navigate hallway without crashing",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#contact-rich-manipulation",
+    "href": "overview.html#contact-rich-manipulation",
+    "title": "Overview",
+    "section": "Contact-Rich Manipulation",
+    "text": "Contact-Rich Manipulation\n\n\n\n\n\nGuided Policy Search\n\n\n\n\nNo guidance",
     "crumbs": [
       "Home",
       "Overview"
@@ -102,6 +139,17 @@
     ]
   },
   {
+    "objectID": "overview.html#whats-left",
+    "href": "overview.html#whats-left",
+    "title": "Overview",
+    "section": "What’s Left?",
+    "text": "What’s Left?\n\nTouch feedback\nHuman-Robot Interaction\nSafety\nReliability\nEnergetic Efficiency\n\nPrevious: Will the prototype work?\nNow: Will this be a viable commercial product?",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
     "objectID": "overview.html#tasks-for-robots",
     "href": "overview.html#tasks-for-robots",
     "title": "Overview",
@@ -128,7 +176,7 @@
     "href": "overview.html#course-overview-1",
     "title": "Overview",
     "section": "Course Overview",
-    "text": "Course Overview\nLearning Goals:\n\nUnderstand coordinates and robot configurations.\nUnderstand how to transform the robot configuration into task coordinates and vice versa, along with the challenges in these processes.\nLearn approaches to planning motions in both task coordinates and robot configurations.\nLearn approaches to achieving planned motions using feedback control.\nUnderstand the challenges of state estimation.\nLearn optimization-based approaches to planning and control.\nSimulate robotic systems and test control algorithms.",
+    "text": "Course Overview\nLearning Goals:\n\nUnderstand coordinates and robot configurations.\nUnderstand how to transform the robot configuration into task coordinates and vice versa, along with the challenges in these processes.\nLearn approaches to planning motions in both task coordinates and robot configurations.\nLearn approaches to achieving planned motions using feedback control.\nUnderstand the challenges of state estimation.\nLearn optimization-based approaches to planning and control.\nUnderstand contact modeling and control challenges.\nSimulate robotic systems and test control algorithms.",
     "crumbs": [
       "Home",
       "Overview"
@@ -139,7 +187,7 @@
     "href": "overview.html#course-overview-2",
     "title": "Overview",
     "section": "Course Overview",
-    "text": "Course Overview\nApproaches for achieving goals:\n\n\nLecture/Discussion on\n\nCoordinates\nDynamical Systems: single and articulated rigid bodies\nPlanning Trajectories\nSensing and State Estimation\nFeedback Control\n\nPaper readings\nPractice through assignments (code and question) and Course Project",
+    "text": "Course Overview\nApproaches for achieving goals:\n\n\nLecture/Discussion on\n\nCoordinates\nDynamical Systems: single and articulated rigid bodies\nPlanning Trajectories\nSensing and State Estimation\nFeedback Control\n\nResearch article discussions\nPractice through assignments (code and question) and Course Project",
     "crumbs": [
       "Home",
       "Overview"
@@ -150,7 +198,7 @@
     "href": "overview.html#expectations",
     "title": "Overview",
     "section": "Expectations",
-    "text": "Expectations\n\nRead notes ahead of time. Classroom activities ASSUME YOU ARE DOING THE READING.\nComfort with mathematics:\n\nAbstract definitions.\nImagining concrete examples to which they apply.\nApplying definitions to complete derivations and proofs.\n\nComfort with code:\n\nHow to use documentation describing installation and use of packages.\nAwareness of the need to test code frequently tests will need testing.\n\nStudy groups. Don’t go this one alone.",
+    "text": "Expectations\n\nYou are reviewing notes and slides.\nComfort with mathematics:\n\nAbstract definitions.\nImagining concrete examples to which they apply.\nApplying definitions to complete derivations and proofs.\n\nComfort with code:\n\nHow to use documentation describing installation and use of packages.\nAwareness of the need to test code frequently tests will need testing.\n\nStudy groups. Don’t go this one alone.",
     "crumbs": [
       "Home",
       "Overview"

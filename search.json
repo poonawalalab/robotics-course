@@ -1,0 +1,199 @@
+[
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Topics",
+    "section": "",
+    "text": "Date\nTopic\nSlides\nNotes\nModern Robotics Chapter\nRMC Book\n\n\n\n\nJan 10\nCourse Overview; Motion Tasks\nIntroduction\n\n1\n1\n\n\nJan 12\nSimulation using Julia; Alternatives\n\n\n\n\n\n\nJan 17\nRobots as powered mechanisms\n\n\n2.1-2.3\n1\n\n\n(self)\nAffine Spaces\n\n\n\n\n\n\nJan 19\nReference Frames & Coordinates; Coordinate/Rigid Body Transformations\n\n\n3.1\n2.1\n\n\nJan 24\nCoordinate/Frame Transformation; Homogenous Transformations\n\n\n3.3.1\n2.2-2.6\n\n\n(self)\nForward Kinematics\n\n\n4\n3.1\n\n\nJan 26\nRotations\n\n\n3.3.1\n2.2-2.6\n\n\nJan 26\nJacobians\n\n\n5.1\n4.6\n\n\nJan 26\nTwists, Wrenches\n\n\n3.3\n-\n\n\n(self)\nInverse Kinematics\n\n\n6\n3.2\n\n\n(self)\nVelocity Kinematics\n\n\n3.3\n4.1-4.5\n\n\n\n2D Newton-Euler Dynamics\n\n\n3.1\n7.6\n\n\n\n3D Newton-Euler Dynamics\n\n\n8.2\n7.6\n\n\n\nEuler-Lagrangian Dynamics\n\n\n8.1, 8.4-8.5\n7.1-7.4\n\n\n\nNewton-Euler Inverse Dynamics\n\n\n8.3\n7.6\n\n\n\nActuator Models\n\n\n8.9\n6.5\n\n\n\nFeedforward and Feedback Control\nFF and FB\n\n\n\n\n\n\nIndependent Joint Control\nIJC\n\n11.4.2.1\n6\n\n\n\nGravity Compensation\n\n\n\n8.1\n\n\n\nInverse Dynamics Control\nInvDyn\n\n11.4.2.2\n8.2\n\n\n(self)\nProperties of EL Dynamics\n\n\n8.1\n7.5\n\n\n\nRobust and Adaptive Control\n\n\n\n8.3\n\n\n\nPassivity-Based Control\n\n\n\n8.4\n\n\n\nForce Control\n\n\n11.5\n9\n\n\n\nContacts\n\n\n11.6\n9.1\n\n\n\nHybrid Force-Position Control\n\n\n11.6\n9.3.3\n\n\n\nImpedance\n\n\n11.7\n9.2\n\n\n\nHybrid Impedance Control\n\n\n11.7\n9.3.2\n\n\n\nImpedance Control\n\n\n11.7\n9.3.2\n\n\n\nMotion Planning\nMP0, Search, MP1\n\n10.3\n5.2, 5.3\n\n\n\nPotential-based Methods\nMP2\n\n10.5\n5.4\n\n\n\nKalman Filtering\nProbability, KF\n\n\n\n\n\n\nKF, SLAM\nSLAM\n\n\n\n\n\n\nSLAM, Review\nSLAM\n\n\n\n\n\n\nBrief: Optimal Control, RL\nLQR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeedback Linearization\n\n\n\n10.2\n\n\n\nGrasping and Manipulation\n\n\n-\n\n\n\n\nWheeled Mobile Robots\n\n\n13\n10.5"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "overview.html#syllabus",
+    "href": "overview.html#syllabus",
+    "title": "Overview",
+    "section": "Syllabus",
+    "text": "Syllabus\n\nLecture: Tue & Thur 2:00pm - 3:15pm, FPAT 253.\nOffice Hours: TBD\nText: Notes +Modern Robotics+ Robot Modeling and Control\nWorkload: 2.5 hours of lecture, 8 hours of reading notes, papers, and writing simulation code per week.\nCourse announcements: I use canvas to send information, but don’t read inbox messages. Contacting me by email with [ME 676 RMC]: or [AER 676 RMC]: makes it easy for me to track and respond to your emails.\nCourse website: All course material will be available on the website, which will be updated as the course proceeds.",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#syllabus-1",
+    "href": "overview.html#syllabus-1",
+    "title": "Overview",
+    "section": "Syllabus",
+    "text": "Syllabus\n\nAcademic Integrity\nAccommodations due to disability\nAttendance Policy\nClassroom Conduct\nExcused Absences & Verification of Absences\nExams: None.\nHomework: Weekly assignments, must adhere to rules in syllabus\nGrading: See Syllabus. Subject to change.",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#about-me",
+    "href": "overview.html#about-me",
+    "title": "Overview",
+    "section": "About me",
+    "text": "About me\n\nGrew up in UK and India\nUndergraduate degree in Mech. Engg. in India\nMasters in Mech. Engg from U. Michigan\nPh.D in Electrical Engg. from UT Dallas\nPostDoc at UT Austin in Computational Control\n\n\n\n\n\nResearch\n\n\nGoal: Get mechanical robots to control themselves.\nDay-to-day: Theory from dynamics and control systems, simulations/experiments involving machine learning and robots.",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#motivation",
+    "href": "overview.html#motivation",
+    "title": "Overview",
+    "section": "Motivation",
+    "text": "Motivation",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#motivation-1",
+    "href": "overview.html#motivation-1",
+    "title": "Overview",
+    "section": "Motivation",
+    "text": "Motivation",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#motivation-2",
+    "href": "overview.html#motivation-2",
+    "title": "Overview",
+    "section": "Motivation",
+    "text": "Motivation",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#tasks-for-robots",
+    "href": "overview.html#tasks-for-robots",
+    "title": "Overview",
+    "section": "Tasks For Robots",
+    "text": "Tasks For Robots\n\nWhat kinds of tasks requires a physical robot? (Or, what can’t your phone do?)\nHow would you describe the motion you want to a robot?\nHow would you, as a robot, convert that description into action?",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#course-overview",
+    "href": "overview.html#course-overview",
+    "title": "Overview",
+    "section": "Course Overview",
+    "text": "Course Overview\n\n\n\n\n\n\nLearning Goal\n\n\nFor you to be able to read and assimilate both recent papers and early foundational papers on robotics. Furthermore, develop programming skills that enable you to implement and try (possibly new) methods in simulation.",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#course-overview-1",
+    "href": "overview.html#course-overview-1",
+    "title": "Overview",
+    "section": "Course Overview",
+    "text": "Course Overview\nLearning Goals:\n\nUnderstand coordinates and robot configurations.\nUnderstand how to transform the robot configuration into task coordinates and vice versa, along with the challenges in these processes.\nLearn approaches to planning motions in both task coordinates and robot configurations.\nLearn approaches to achieving planned motions using feedback control.\nUnderstand the challenges of state estimation.\nLearn optimization-based approaches to planning and control.\nSimulate robotic systems and test control algorithms.",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#course-overview-2",
+    "href": "overview.html#course-overview-2",
+    "title": "Overview",
+    "section": "Course Overview",
+    "text": "Course Overview\nApproaches for achieving goals:\n\n\nLecture/Discussion on\n\nCoordinates\nDynamical Systems: single and articulated rigid bodies\nPlanning Trajectories\nSensing and State Estimation\nFeedback Control\n\nPaper readings\nPractice through assignments (code and question) and Course Project",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#expectations",
+    "href": "overview.html#expectations",
+    "title": "Overview",
+    "section": "Expectations",
+    "text": "Expectations\n\nRead notes ahead of time. Classroom activities ASSUME YOU ARE DOING THE READING.\nComfort with mathematics:\n\nAbstract definitions.\nImagining concrete examples to which they apply.\nApplying definitions to complete derivations and proofs.\n\nComfort with code:\n\nHow to use documentation describing installation and use of packages.\nAwareness of the need to test code frequently tests will need testing.\n\nStudy groups. Don’t go this one alone.",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#about-you",
+    "href": "overview.html#about-you",
+    "title": "Overview",
+    "section": "About You",
+    "text": "About You\nOn an index card / sheet of paper, write down:\n\nName\nFirst robot you were aware of and/or Favorite robot\nMotivation for taking this course\nConcerns about the course\nTopics you wish were on the syllabus\nTopics you have already studied\nLearning/teaching styles that you feel work well for you",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Robot Modeling Control",
+    "section": "",
+    "text": "This course covers methods for planning and executing the movement of mobile robots (navigation), robot arms (manipulation) and legs (manipulation).\nCourse github: poonawalalab/robotics-course"
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "We use the following major packages in python:\n\nnumpy: working with \\(n\\)-D arrays\nmujoco : Modeling and simulation of robotic systems\nmatplotlib: plotting\n\nThe following command uses pip to install these python packages\npip install numpy mujoco matplotlib\nIf you want to use machine learning, consider the following packages:\n\ntorch: training of differentiable models\ntorchvision: tools for vision models\npandas: working with data\ntqdm: progress bars in the command line\nscikit-learn: source some classic datasets\n\n\n\nVirtual environments allow you to install a custom set of packages with custom package versions for a project.\nInside the dlcourse directory, run\npython -m venv code-venv\nto create a blank virtual environment.\nActivate it, and then install packages. Upon activation, the command line prompt changes to start with the name of the virtual environment. Here, it would be (code-venv):\nsource code-venv/bin/activate\npip install &lt;packages above&gt;\nWhen you are done, you can run deactivate to return to the default global environment.",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "introduction.html#packages",
+    "href": "introduction.html#packages",
+    "title": "Getting Started",
+    "section": "",
+    "text": "We use the following major packages in python:\n\nnumpy: working with \\(n\\)-D arrays\nmujoco : Modeling and simulation of robotic systems\nmatplotlib: plotting\n\nThe following command uses pip to install these python packages\npip install numpy mujoco matplotlib\nIf you want to use machine learning, consider the following packages:\n\ntorch: training of differentiable models\ntorchvision: tools for vision models\npandas: working with data\ntqdm: progress bars in the command line\nscikit-learn: source some classic datasets\n\n\n\nVirtual environments allow you to install a custom set of packages with custom package versions for a project.\nInside the dlcourse directory, run\npython -m venv code-venv\nto create a blank virtual environment.\nActivate it, and then install packages. Upon activation, the command line prompt changes to start with the name of the virtual environment. Here, it would be (code-venv):\nsource code-venv/bin/activate\npip install &lt;packages above&gt;\nWhen you are done, you can run deactivate to return to the default global environment.",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "introduction.html#numpy",
+    "href": "introduction.html#numpy",
+    "title": "Getting Started",
+    "section": "NumPy",
+    "text": "NumPy\nA nice overview of using numpy is located online here.\nTwo KEY issues to watch out for:\n\nStandard matrix multiplication in numpy uses the @ symbol, not the * symbol. Users coming from Matlab or Julia often trip over this issue a few times until they internalize the new symbol.\n2D Arrays are stored in row-major form.",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "introduction.html#mujoco",
+    "href": "introduction.html#mujoco",
+    "title": "Getting Started",
+    "section": "MuJoCo",
+    "text": "MuJoCo",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  }
+]
